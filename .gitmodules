@@ -1,0 +1,3 @@
+[submodule "proyecto2"]
+	path = proyecto2
+	url = https://github.com/AdrianV83/proyecto2.git
